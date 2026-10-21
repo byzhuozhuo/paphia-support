@@ -1,7 +1,5 @@
-# Paphia support website
+# Paphia support website (moved)
 
-Public privacy, support and purchase information for Paphia. Plain static HTML; no analytics, cookies, external fonts or client-side scripts.
+Paphia's public site now lives at https://paphia.garden. Every page here redirects to its counterpart there.
 
-The application source code and internal release documents are maintained separately.
-
-Contact: paphia@sent.com
+Contact: support@paphia.garden
